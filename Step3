@@ -1,1 +1,2 @@
 Now you should see a lot of numbers in WireShark. It should look similar to the picture provided below.
+I selected the first frame, showing the source of the trace and the destination. In the next step, I select frame 2 and find the IP addresses of my own computer and the remote server (for this I blacked out my IP for obvious reasons).
