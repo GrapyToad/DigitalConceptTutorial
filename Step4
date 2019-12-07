@@ -1,0 +1,4 @@
+In the picture below, I emphasize the source IP address and destination IP address.
+You can find a lot more information from these packets that are captured, and from different places.
+WireShark is very useful and used to find where things go wrong in a network.
+You have the option to save the capture so you can open it later and still view the packets previously captured.
