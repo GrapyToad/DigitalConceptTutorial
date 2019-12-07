@@ -1,1 +1,2 @@
-Then open terminal and use the command "curl" on a remote server (eg. www.mit.edu).
+After starting the tcp port 80 trace on WireShark, you should not see anything being captured. This is ok, because nothing is being recieved yet.
+Open terminal and use the command "curl" on a remote server (eg. www.mit.edu). Doing this command should cause WireShark to start capturing data from the remote server.
