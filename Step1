@@ -1,1 +1,2 @@
 First off, open WireShark and select the port in which you want to capture the data from (example: Wi-Fi en 1).
+Then in the filter option enter "tcp port 80".
